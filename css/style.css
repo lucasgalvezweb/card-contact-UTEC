@@ -83,3 +83,7 @@ body .card{
 .add-contact{
     padding-bottom: 50px;
 }
+
+a{
+    text-decoration: none !important;
+}
