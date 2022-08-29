@@ -1,0 +1,79 @@
+@font-face {
+    font-family: stag-sans-light;
+    src: url("../fonts/StagSans-Light.otf") format("woff");
+}
+
+@font-face {
+    font-family: stag-sans-bold;
+    src: url("../fonts/StagSans-Bold.otf") format("woff");
+}
+
+@font-face {
+    font-family: stag-sans-medium;
+    src: url("../fonts/StagSans-Medium_0.otf") format("woff");
+}
+
+@font-face {
+    font-family: stag-sans-thin;
+    src: url("../fonts/StagSans-Thin.otf") format("woff");
+}
+
+body {
+    font-family: stag-sans-light, Arial, Helvetica, sans-serif !important;
+}
+
+body .card{
+    text-align: -webkit-center !important;
+}
+
+.main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.background{
+    background-color: #00BEFF;
+    height: 250px;
+}
+
+.logo-utec{
+    padding-top: 35px;
+}
+
+.profile-image{
+    padding-top: 40px;
+}
+
+.info{
+    margin-top: 160px;
+}
+
+.title{
+    font-family: stag-sans-bold, Arial, Helvetica, sans-serif !important;
+}
+
+.subtitle-wrapper{
+    padding: 10px;
+}
+
+.subtitle-wrapper span{
+    padding: 5px 60px;
+    background-color: #00BEFF;
+}
+
+.icons-to-contact{
+    margin-top: 20px;
+    /* width: 300px; */
+}
+
+.info-detalle{
+    margin-top: 60px;
+    max-width: 450px;
+}
+
+.info-detalle ul{
+    list-style: none;
+}
