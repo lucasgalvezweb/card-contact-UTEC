@@ -77,3 +77,7 @@ body .card{
 .info-detalle ul{
     list-style: none;
 }
+
+.add-contact{
+    padding-bottom: 50px;
+}
