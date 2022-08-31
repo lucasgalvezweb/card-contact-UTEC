@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Javier Bustamante
+N:Bustamante;Javier;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:jbustamante@utec.edu.pe
+TEL;TYPE=WORK:+5112305000
+item1.ADR:;;Jr. Medrano Silva 165;Barranco;;15063;PE;Jr. Medrano Silva 165
+ \nBarranco 15063\nPE
+item1.X-ABLabel:
+item2.ORG:Universidad de Ingeniería y Tecnología UTEC
+item2.X-ABLabel:
+item3.TITLE:Director Ejecutivo
+item3.X-ABLabel:
+URL;TYPE=WORK:https\://utec.edu.pe/page/30/autoridades/1091
+PHOTO:https://lh3.googleusercontent.com/contacts/ABsqpltyHID_eeth-uznaFvdYG
+ 78_ulKOdL2MjvdBXyY-YyiAGxL3FA9
+CATEGORIES:myContacts
+END:VCARD
