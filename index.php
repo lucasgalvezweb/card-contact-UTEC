@@ -38,13 +38,10 @@
                 <a href="mailto:jbustamante@utec.edu.pe"><img src="elements/mail.png" width="35px" alt="" /></a>
             </div>
             <div class="col-3">
-                <a target="_blank" href="https://goo.gl/maps/LNNAKBXoaTnDjfqdA"><img src="elements/Direccion.png"
-                        width="35px" alt="" /></a>
+                <a target="_blank" href="https://goo.gl/maps/LNNAKBXoaTnDjfqdA"><img src="elements/Direccion.png" width="35px" alt="" /></a>
             </div>
             <div class="col-3">
-                <a target="_blank"
-                    href="https://www.linkedin.com/in/javier-bustamante/?trk=public_profile_browsemap&originalSubdomain=pe"><img
-                        src="elements/Linkedin.png" width="35px" alt="" /></a>
+                <a target="_blank" href="https://www.linkedin.com/in/javier-bustamante/?trk=public_profile_browsemap&originalSubdomain=pe"><img src="elements/Linkedin.png" width="35px" alt="" /></a>
             </div>
         </div>
 
@@ -53,8 +50,7 @@
                 <li>
                     <div class="row">
                         <div class="col-3 align-self-center text-right">
-                            <a href="tel:+511-230-5000"><img width="35px" src="elements/Phone_2.png"
-                                    alt="Teléfono UTEC" /></a>
+                            <a href="tel:+511-230-5000"><img width="35px" src="elements/Phone_2.png" alt="Teléfono UTEC" /></a>
                         </div>
                         <div class="col-9">
                             <span>(0511) 230-5000</span><br>
@@ -67,12 +63,11 @@
                 <li>
                     <div class="row">
                         <div class="col-3 align-self-center text-right">
-                            <a href="mailto:jbustamante@utec.edu.pe"><img width="35px" src="elements/Mail_2.png"
-                                    alt="Correo Javier Bustamante" /></a>
+                            <a href="mailto:jbustamante@utec.edu.pe"><img width="35px" src="elements/Mail_2.png" alt="Correo Javier Bustamante" /></a>
                         </div>
                         <div class="col-9">
                             <span>jbustamante@utec.edu.pe</span><br />
-                            <span><a href="mailto:jbustamante@utec.edu.pe">Correo Electrónico</a></span>
+                            <span><a href="mailto:jbustamante@utec.edu.pe">Correo electrónico</a></span>
                         </div>
                     </div>
                 </li>
@@ -81,14 +76,11 @@
                 <li>
                     <div class="row">
                         <div class="col-3 align-self-center text-right">
-                            <a target="_blank" href="https://goo.gl/maps/LNNAKBXoaTnDjfqdA"><img width="35px"
-                                    src="elements/Direccion_2.png" alt="Correo Javier Bustamante" /></a>
+                            <a target="_blank" href="https://goo.gl/maps/LNNAKBXoaTnDjfqdA"><img width="35px" src="elements/Direccion_2.png" alt="Correo Javier Bustamante" /></a>
                         </div>
                         <div class="col-9">
-                            <span>Jr. Medrano Silva 165 Barranco, Lima, Perú</span><br />
-                            <span class="title"><a target="_blank" href="https://goo.gl/maps/LNNAKBXoaTnDjfqdA">Mostrar
-                                    en
-                                    el mapa</a></span>
+                            <span>Jr. Medrano Silva 165, Barranco, Lima, Perú</span><br />
+                            <span class="title"><a target="_blank" href="https://goo.gl/maps/LNNAKBXoaTnDjfqdA">Mostrar en el mapa</a></span>
                         </div>
                     </div>
                 </li>
@@ -97,13 +89,11 @@
                 <li>
                     <div class="row">
                         <div class="col-3 align-self-center text-right">
-                            <a target="_blank" href="https://utec.edu.pe/page/30/autoridades/1091"><img width="35px"
-                                    src="elements/Job.png" alt="Correo Javier Bustamante" /></a>
+                            <a target="_blank" href="https://utec.edu.pe/page/30/autoridades/1091"><img width="35px" src="elements/Job.png" alt="Correo Javier Bustamante" /></a>
                         </div>
                         <div class="col-9">
                             <span>Universidad de Ingeniería y Tecnología - UTEC</span><br />
-                            <span><a target="_blank" href="https://utec.edu.pe/page/30/autoridades/1091">Director
-                                    General</a></span>
+                            <span><a target="_blank" href="https://utec.edu.pe/page/30/autoridades/1091">Director General</a></span>
                         </div>
                     </div>
                 </li>
